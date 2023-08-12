@@ -89,6 +89,7 @@ myproc(void)
   return p;
 }
 
+// 分配进程 id
 int
 allocpid()
 {
